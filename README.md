@@ -51,7 +51,13 @@ The goal of this repository is to:
 | 08 | Amazon Clone |
 | 09 | Digital Clock |
 | 10 | E-Commerce Shopping App |
-| ... | And 41 More Projects |
+| 11 | Square-Game |
+| 12 | Pokemon-Card-Collection |
+| 13 | Portfolio |
+| 14 | BMI-Calculator |
+| 15 | Calculator |
+| 16 | Netflix Clone |
+| ... | And 35 More Projects |
 
 ---
 
