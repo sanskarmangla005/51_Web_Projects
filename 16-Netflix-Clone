@@ -1,0 +1,26 @@
+# Netflix Clone
+
+A responsive Netflix Clone inspired by the official Netflix landing page, built using HTML5 and CSS3.
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+
+## ✨ Features
+- Netflix-style homepage
+- Responsive design
+- Modern and clean UI
+- Movie and TV show cards
+- Navigation bar
+- Footer section
+
+## 📁 Project Structure
+- index.html
+- style.css
+- images/
+
+## 🎯 Purpose
+This project was created to practice front-end web development skills using HTML and CSS.
+
+## 👨‍💻 Author
+Sanskar Agrawal
